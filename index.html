@@ -13,7 +13,6 @@
     <meta name="description" content="Cafeteria TDS no TripleTen" />
     <meta name="author" content="Tátila Duarte" />
     <meta name="keywords" content="html, css" />
-    <link rel="stylesheet" href="./vendor/normalize.css" />
     <link rel="stylesheet" href="./pages/index.css" />
     <link rel="icon" href="/favicon.ico" />
   </head>
@@ -35,7 +34,7 @@
               <a href="#reservation" class="nav__link">Reservar uma mesa</a>
             </li>
             <li>
-              <a href="#" class="nav__link">Contatos</a>
+              <a href="#footer" class="nav__link">Contatos</a>
             </li>
           </ul>
         </nav>
@@ -173,8 +172,41 @@
           </form>
         </section>
       </main>
-      <footer class="footer">
-        <p></p>
+      <footer id="footer" class="footer">
+        <div class="footer__content">
+          <img
+            src="./images/logo_coffeeshop_light.svg"
+            class="footer__logo"
+            alt="Logo cafeteria TripleTen"
+          />
+          <div class="footer__social">
+            <h3 class="footer__social-heading">Mídia social</h3>
+            <ul class="footer__list">
+              <li class="footer__list-item">
+                <a href="#" class="footer__social-link">
+                  <img
+                    src="./images/facebook_white.svg"
+                    class="footer__social-icon"
+                    alt="Logo Facebook"
+                  />
+                  Facebook</a
+                >
+              </li>
+              <li class="footer__list-item">
+                <a href="#" class="footer__social-link">
+                  <img
+                    src="./images/instagram_white.svg"
+                    class="footer__social-icon"
+                    alt="Logo Instagram"
+                  />
+                  Instagram</a
+                >
+              </li>
+            </ul>
+          </div>
+        </div>
+        <p class="footer__copyright">© 2024 Tátila Duarte</p>
+        <div class="footer__circle"></div>
       </footer>
     </div>
   </body>
