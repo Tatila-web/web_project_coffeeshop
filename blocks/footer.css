@@ -36,11 +36,17 @@
   line-height: 20px;
   color: #ffffff;
 }
+.footer__social-heading {
+  margin-bottom: 20px;
+}
+.footer__list {
+  display: flex;
+  flex-direction: column;
+  gap: 16px;
+}
 
 .footer__list-item {
   list-style-type: none;
-  margin-top: 20px;
-  margin-bottom: 16px;
 }
 .footer__social-link {
   font-family: "Inter", "Arial", sans-serif;
@@ -50,11 +56,14 @@
   line-height: 20px;
   color: #ffffff;
   text-decoration: none;
-  list-style-type: none;
   display: flex;
   gap: 10px;
+  align-items: center;
 }
 .footer__social-link:hover {
+  color: #c1c1c1;
+}
+footer__social-link:focus {
   color: #c1c1c1;
 }
 .footer__social-icon {
@@ -68,5 +77,6 @@
   font-size: 16px;
   line-height: 20px;
   color: #ffffff;
-  padding: 108px 0 60px 0;
+  padding-top: 108px;
+  margin: 0;
 }
