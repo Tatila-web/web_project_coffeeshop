@@ -17,3 +17,8 @@ Este projeto foi desenvolvido aplicando a metodologia BEM (Block, Element, Modif
 ✔️ Adicionar novas receitas ao bloco recipes.
 ✔️ Estilizar o formulário para melhor experiência do usuário.
 ✔️ Atualizar a cor do estado :hover no bloco footer para maior contraste e acessibilidade.
+
+# 📌 Este projeto foi desenvolvido para versão Desktop.
+
+🌍 Acesse o Projeto Online
+🔗 Cafeteria TDS - https://tatila-web.github.io/web_project_coffeeshop/
