@@ -1,19 +1,19 @@
-# Triple Espresso
+# ☕ Cafeteria TDS
 
-Projeto 4:
+Projeto 4 - Triple Espresso
 
-Cafeteria TDS
+# 📌 Descrição
 
-Descrição:
+Este projeto foi desenvolvido aplicando a metodologia BEM (Block, Element, Modifier) para estruturar e nomear classes de forma clara e modular. Além disso, seguimos o conceito BEM Flat para organizar os arquivos CSS em diretórios específicos para cada bloco, facilitando a manutenção e escalabilidade do código.
 
-Desenvolvido seguindo a metodologia BEM, para organizar os blocos com classes e modificadores de modo que facilite a atualização do código quando necessário.
+# 🛠️ Tecnologias Utilizadas
 
-Seguindo a mesma metodologia "BEM flat", para organizar os diretórios que contém os arquivos CSS correspondentes para cada bloco.
+- HTML5
 
-Planos de melhoria:
+- CSS3 (com BEM e BEM Flat)
 
-Adiconar receitas novas ao bloco recipes.
+# 🚀 Melhorias Futuras
 
-Estilizar o formulário.
-
-Atualizar color do estado :hover no bloco footer.
+✔️ Adicionar novas receitas ao bloco recipes.
+✔️ Estilizar o formulário para melhor experiência do usuário.
+✔️ Atualizar a cor do estado :hover no bloco footer para maior contraste e acessibilidade.
